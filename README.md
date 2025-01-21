@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm a French **HIGH School** Student ! I'm passionate about coding and love building projects, mostly focusing on front-end development. Here's a little more about me:
----
+
 
 ## 🛠️ Tools & Technologies
 - **Languages**: HTML, CSS, JavaScript, Python, Lua
